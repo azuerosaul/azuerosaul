@@ -22,9 +22,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=azuerosaul&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![Saul's profile views](https://u8views.com/api/v1/github/profiles/106014185/views/day-week-month-total-count.svg)](https://u8views.com/github/azuerosaul)
 [![](https://visitcount.itsvg.in/api?id=azuerosaul&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
